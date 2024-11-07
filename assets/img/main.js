@@ -15,5 +15,5 @@ cartao.innerHTML =`
 `
 container.appendChild(cartao)
 }
-criarCartao('historia','em que ano iniciou-se a guerra do vietnã?','Em 1955')
-criarCartao('portugues','oque é paroxitona?','uma paroxitona é uma palavra cuja silaba tonica é penultima')
+criaCartao('historia','em que ano iniciou-se a guerra do vietnã?','Em 1955')
+criaCartao('portugues','oque é paroxitona?','uma paroxitona é uma palavra cuja silaba tonica é penultima')
